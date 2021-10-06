@@ -1,7 +1,7 @@
 # windows_spotlight_scrapper
 Get images from Windows Spotlight, Location Names, and try to append coordinates using location names and OpenStreetMaps search
 
-
+File: <code> slike.xlsx </code> ~ 1000 Locations
 ![image](https://user-images.githubusercontent.com/29605484/136181686-ca9f53be-8708-4d4c-a38a-2572e7fb72e1.png)
 
 
