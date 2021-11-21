@@ -13,6 +13,8 @@ The Spotlight API is located on the following endpoint:
 https://arc.msn.com/v3/Delivery/Placement?pid=209567&fmt=json&rafb=0&ua=WindowsShellClient%2F0&cdm=1&disphorzres=9999&dispvertres=9999&lo=80217&pl=en-US&lc=en-US&ctry=us&time=2017-12-31T23:59:59Z
  </code>
 
+Also there is a mini game, something like really simple version of geoguessr
+![image](https://user-images.githubusercontent.com/29605484/142759423-ce728116-d455-46af-9542-056f5b91a510.png)
 
 ## Where the expected arguments are:
  
